@@ -12,6 +12,12 @@ sudo pacman -S xdg-desktop-portal \
                fcitx5-mozc
 ```
 
+or just run
+
+```
+chmod +x setup.sh && ./setup.sh
+```
+
 ## hyprctl monitors descriptions
 
 ```
