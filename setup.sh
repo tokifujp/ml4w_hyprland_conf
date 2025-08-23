@@ -90,8 +90,7 @@ sudo pacman -S wget \
     github-cli \
     --noconfirm
 
-yay -S amf-amdgpu-pro \
-    1password \
+yay -S 1password \
     slack-desktop-wayland \
     zsh-completions \
     python-screeninfo \
