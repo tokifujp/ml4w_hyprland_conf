@@ -90,7 +90,7 @@ sudo pacman -S wget \
     github-cli \
     --noconfirm
 
-yay install amf-amdgpu-pro \
+yay -S amf-amdgpu-pro \
     1password \
     slack-desktop-wayland \
     zsh-completions \
